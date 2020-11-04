@@ -1,6 +1,8 @@
 # some_python_exercises
 Python exercise questions. 
 
+Link to Colab [file](https://colab.research.google.com/drive/1uTCFP2Wu0i1vpgyjzRxSoLARFEOmaRU7?usp=sharing)
+
 
 Q1. Write a function using only list filter lambda that can tell whether a number is a Fibonacci number or not. You can use a pre-calculated list/dict to store fab numbers till 10000 
 
